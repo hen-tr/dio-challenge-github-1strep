@@ -5,7 +5,7 @@
 Created repository to attend a Project Challenge.
 
 ## Useful links:
-[Digital Innovation One - DIO Main Page](https://www.dio.me/)
+[Digital Innovation One - DIO Main Page](https://www.dio.me/)<br/>
 [Basic Syntax Markdown](https://www.markdownguide.org/basic-syntax/)<br/>
 [Git Download Link](https://git-scm.com/downloads/)<br/>
 
