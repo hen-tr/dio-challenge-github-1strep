@@ -5,5 +5,5 @@
 Created repository to attend a Project Challenge.
 
 ## Useful links
-[Basic Syntax Markdown](https://www.markdownguide.org/basic-syntax/)
+[Basic Syntax Markdown](https://www.markdownguide.org/basic-syntax/)<br/>
 [Git Download Link](https://git-scm.com/downloads/)
