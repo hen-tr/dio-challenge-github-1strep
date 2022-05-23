@@ -2,4 +2,4 @@
 Created repository to attend a Project Challenge.
 
 ## Useful links
-[Basic_Syntax_Markdown](https://www.markdownguide.org/basic-syntax/)
+[Basic Syntax Markdown](https://www.markdownguide.org/basic-syntax/)
