@@ -1,6 +1,6 @@
 # Project Challenge on Git/GitHub by DIO
 
-<center> ![DIO](https://avatars1.githubusercontent.com/u/26231823?s=280&v=4) </center>
+![Digital Innovation One - DIO](https://avatars1.githubusercontent.com/u/26231823?s=280&v=4)
 
 Created repository to attend a Project Challenge.
 
