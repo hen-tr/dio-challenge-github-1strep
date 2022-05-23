@@ -1,5 +1,5 @@
-# Repository Challenge on Git/GitHub by DIO
-Project Challenge on Git/GitHub
+# Project Challenge on Git/GitHub by DIO
+Created repository to attend a Project Challenge.
 
 ## Useful links
-[Sintaxe_Básica_Markdown](https://www.markdownguide.org/basic-syntax/)
+[Basic_Syntax_Markdown](https://www.markdownguide.org/basic-syntax/)
