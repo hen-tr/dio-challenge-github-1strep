@@ -1,2 +1,2 @@
-# dio_challenge_github_1strep
+# Repository Challenge on Git/GitHub by DIO
 Project Challenge on Git/GitHub
